@@ -24,6 +24,6 @@ Ensure you have Python and the required libraries installed.
 Save the code as a Python file (e.g., supply_chain_module.py).
 Run the script from your terminal:
 ```
-python supply_chain_module.py
+python supply_chain_project.py
 ```
 The script includes example usage for both the MovingAverageForecaster and TransportationOptimizer classes
