@@ -19,7 +19,7 @@ You can install the required libraries using pip:
 ```
 pip install pulp numpy
 ```
-How to Run
+How to Run:
 Ensure you have Python and the required libraries installed.
 Save the code as a Python file (e.g., supply_chain_module.py).
 Run the script from your terminal:
